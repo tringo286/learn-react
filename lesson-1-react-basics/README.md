@@ -1,6 +1,6 @@
 # Lesson 1: React Basics
 
-This lesson will cover the fundamentals of React, including:
+This lesson will cover:
 
 - What is React?
 - Understanding JSX
