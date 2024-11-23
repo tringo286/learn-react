@@ -1,8 +1,8 @@
 # Lesson 2: Card Components
 
-This lesson will cover creating and using reusable Card Components in React, including:
+This lesson will cover:
 
-- What are Card Components?-
+- What are Card Components?
 - Styling Card Components
 - Using multiple Card Components in a parent component
 
