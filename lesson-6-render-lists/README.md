@@ -10,4 +10,4 @@ This lesson covers:
 
 ### Output Example
 
-![Output](./screenshot.png)
+![Output](./Screenshot.png)
