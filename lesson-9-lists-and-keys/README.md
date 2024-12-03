@@ -1,6 +1,3 @@
-
-markdown
-Copy code
 # Lesson 9: Lists and Keys in React
 
 This lesson covers how to dynamically render lists in React and the importance of using unique keys for each list item.
@@ -13,7 +10,4 @@ This lesson covers how to dynamically render lists in React and the importance o
 
 ### Output Example
 
-<video width="500" controls>
-  <source src="./Recording.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![Output](./Recording.gif)
