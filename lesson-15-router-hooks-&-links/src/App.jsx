@@ -62,7 +62,7 @@ const App = () => {
     navigate('/');
   }
 
-  const handleDelete = (id) => {
+  const handleDelete = (id) => {  
     const newPosts = posts.filter(post => post.id !== id)
     setPosts(newPosts);
     navigate('/');
