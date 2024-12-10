@@ -24,3 +24,7 @@ This lesson demonstrates how to use **React Router Hooks** and **Links** for enh
 - **Navigation**:
   - Uses **Link** components for declarative navigation.
   - Demonstrates **useNavigate** for programmatic routing.
+
+### Output Example
+
+![Output](./src/assets/Screenshot.png) 
